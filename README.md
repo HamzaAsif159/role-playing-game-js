@@ -9,3 +9,7 @@ Challenge of Scrimba Frontend Developer Career Path 7th module
 - Constructor functions
 - Object.assign
 - Importing & exporting
+- The reduce() method
+- The ternary operator
+- Arrow functions
+- The setTimeout() method
